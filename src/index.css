@@ -13,7 +13,7 @@ code {
 }
 
 .footer{
-  background-color: rgb(247, 202, 0);
+  background-color: rgb(230, 185, 8);
   height: 150px;
 }
 
@@ -23,4 +23,12 @@ code {
 
 .espacio{
   padding: 10px;
+}
+
+.fondoInicio{
+  background-image: url(/public/images/YELLOW.jpg);
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

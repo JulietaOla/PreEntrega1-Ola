@@ -2,5 +2,8 @@
     {"id":1, "nombre":"Crop Top", "descripcion":"100% Algodón", "talle":"S", "imagen":"/images/06.png", "precio":50, "stock":10, "categoria":"CropTop"},
     {"id":2, "nombre":"Parka", "descripcion":"impermeable", "talle":"L", "imagen":"/images/07.png", "precio":90, "stock":5, "categoria":"Parka"},
     {"id":3, "nombre":"Hoodie", "descripcion":"Freezado interno", "talle":"L", "imagen":"/images/08.png", "precio":75, "stock":8,"categoria":"Hoodie"},
-    {"id":4, "nombre":"Sweater", "descripcion":"100% Algodón", "talle":"M", "imagen":"/images/09.png", "precio":50, "stock":10,"categoria":"Sweater"}
+    {"id":4, "nombre":"Sweater", "descripcion":"100% Algodón", "talle":"M", "imagen":"/images/09.png", "precio":50, "stock":10,"categoria":"Sweater"},
+    {"id":5, "nombre":"Hoodie", "descripcion":"Freezado interno", "talle":"L", "imagen":"/images/11.png", "precio":75, "stock":7,"categoria":"Hoodie"},
+    {"id":6, "nombre":"Crop Top", "descripcion":"100% Algodón", "talle":"S", "imagen":"/images/10.png", "precio":50, "stock":10,"categoria":"CropTop"}
+
 ]
